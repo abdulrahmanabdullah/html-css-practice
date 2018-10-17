@@ -1,0 +1,10 @@
+Required :
+1 - set image and title side by side .
+2 - write the speech text OR article text (below the title )
+3 - set some motivations video .
+
+Note :
+* content appear in the Mid-page . 
+* extension image prefer png .
+* make it responsive page .
+* change font family and size .

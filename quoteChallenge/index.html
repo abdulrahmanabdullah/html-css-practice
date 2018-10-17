@@ -1,20 +1,24 @@
 <!doctype html>
 <html>
-
 <head>
   <link rel="stylesheet" type="text/css" href="style.css" />
+  <script src="setup.js"></script>
+  </script>
   <title>
-
+      Beautiful quote
   </title>
 </head>
-
 <body>
 
   <div class="main-container">
     <!-- TODO: add boder for whoal page . -->
-    <header>
-      <img class="article-pic" src="Peter-Dinklage-PNG-Photos.png" />
-      <h1> Peter Dinklage,Speech </h1>
+    <header class="container">
+        <div class="img-container">
+              <img src="Peter-Dinklage-PNG-Photos.png" />
+        </div>
+        <div class="title-container">
+            <h4> Peter Dinklage Speech </h4>
+        </div>
     </header>
     <div class="some-text">
       <p>
@@ -22,20 +26,19 @@
         of change. I got eloping theater job in a play called imperfect which led to other roles and other roles. And I've worked as an actor ever since. Raise the rest of your life to meet you.<span class="importent-word"> Don't search for defining moments because they will never
         come the moments that define you have already happened</span> and they will already happen again. You just get a bit derail. And if you are that's fine to some of us never find it but you will promise you don't wait until they tell you you are
         reading the world might say you are not allowed to.
-
-
-
       </p>
     </div>
-  </div>
-  <!-- <section>
-    <div class="big-box">
-      <div class="sec-box">
-        <div class="inner-box"></div>
-      </div>
+    <div class="md-youtube">
+      <iframe   src="https://www.youtube.com/embed/GBz-pwTyxtA?autoplay=1"></iframe>
     </div>
-    <iframe class="md-youtube" width="560" height="315" src="https://www.youtube.com/embed/GBz-pwTyxtA?autoplay=1"></iframe>
-  </section> -->
+      <div class="timer">
+        <p id="timer"> _________ </p>
+        <script>
+          setup('timer')
+
+        </script>
+      </div>
+  </div>
 </body>
 
 </html>

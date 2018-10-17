@@ -10,35 +10,55 @@
 .left-side{
     width:50%;
     height: 50%;
-    background-color:#ffff008f;
+    background-color:#4cab90;
     border: 1px solid black;
     border-style: none;
 }
 .left-side:hover {
-  background-color: yellow ;
-  box-shadow: 10px 20px 50px #ffff008f;
-  border-style: outset;
+  background-color: #e2a110 ;
+  box-shadow: -10px 13px 20px 1px #326f5e
 }
 .right-side{
     width:50%;
     height: 50%;
-    background-color:green;
+    background-color:#234c40;
     border: 1px solid black;
     border-style: none;
 }
 .right-side:hover {
-  background: black ;
+  background-color: #e2a110 ;
+box-shadow: -10px 13px 20px 1px #326f5e
 
 }
 .middle-side{
     width:50%;
     height: 50%;
-    background-color:#ff0000a3;
+    background-color:#33715f;
     border: 1px solid black;
     border-style: none;
 }
 
 .middle-side:hover {
-  background-color:red ;
-  box-shadow: 10px 20px 30px ;
+  background-color: #e2a110 ;
+box-shadow: -10px 13px 20px 1px #326f5e
+}
+
+.timer{
+   border: 1px solid;
+    /* display: flex; */
+    font-size: 3.5em;
+    border-radius: 20%;
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    /* left: 50%; */
+    margin: 0 auto;
+    /* margin-left: 50%; */
+    /* right: -50%; */
+    top: 67%;
+    background: #2981C9;
+    border-style: unset;
+    color: wheat;
+    box-shadow:
+
 }

@@ -1,5 +1,5 @@
 var counter = 0;
-var timeleft = 60 * 5;
+var timeleft = 60 * 15;
 
 function convertSeconds(s) {
   var min = Math.floor(s / 60);
