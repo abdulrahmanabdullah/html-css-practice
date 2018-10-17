@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans+Condensed:300');
+body{
+  background: #2981C9;
+  /* Set defualt font size, to sure works in all browsers */
+  font-size: 100%;
+}
+.main-mes{
+  text-align: center;
+    color: wheat;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 3em ;
+  font-style:italic;
+  text-decoration: underline;
+}
+a{
+    color:#ffffff;
+    font-size: 2.5em ;
+    text-decoration: none;
+}
+
+/* change link color hover */
+a:hover{
+  color:darkblue ;  
+}
+a:visited{
+  background-color: #F44336 ;
+}
+
+.timer{
+    border: 1px solid;
+    /* display: inline; */
+    font-size: 3.5em;
+    border-radius: 20%;
+    text-align: center;
+    width: 30%;
+    position: absolute;
+    left: 50%;
+    right: -50%;
+    top: 50%;
+    background: #2981C9;
+    border-style: unset;
+    color: wheat;
+    box-shadow: 10px 5px 60px #98b4bd;
+
+}
