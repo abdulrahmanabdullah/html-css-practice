@@ -10,58 +10,35 @@
 .left-side{
     width:50%;
     height: 50%;
-<<<<<<< HEAD
     background-color:#4cab90;
-=======
-    background-color:#ffff008f;
->>>>>>> 61697fa945a7019e9a38cc04c5dad8200f69c40a
     border: 1px solid black;
     border-style: none;
 }
 .left-side:hover {
-<<<<<<< HEAD
   background-color: #e2a110 ;
   box-shadow: -10px 13px 20px 1px #326f5e
-=======
-  background-color: yellow ;
-  box-shadow: 10px 20px 50px #ffff008f;
-  border-style: outset;
->>>>>>> 61697fa945a7019e9a38cc04c5dad8200f69c40a
 }
 .right-side{
     width:50%;
     height: 50%;
-<<<<<<< HEAD
     background-color:#234c40;
-=======
-    background-color:green;
->>>>>>> 61697fa945a7019e9a38cc04c5dad8200f69c40a
     border: 1px solid black;
     border-style: none;
 }
 .right-side:hover {
-<<<<<<< HEAD
   background-color: #e2a110 ;
 box-shadow: -10px 13px 20px 1px #326f5e
-=======
-  background: black ;
->>>>>>> 61697fa945a7019e9a38cc04c5dad8200f69c40a
 
 }
 .middle-side{
     width:50%;
     height: 50%;
-<<<<<<< HEAD
     background-color:#33715f;
-=======
-    background-color:#ff0000a3;
->>>>>>> 61697fa945a7019e9a38cc04c5dad8200f69c40a
     border: 1px solid black;
     border-style: none;
 }
 
 .middle-side:hover {
-<<<<<<< HEAD
   background-color: #e2a110 ;
 box-shadow: -10px 13px 20px 1px #326f5e
 }
@@ -84,8 +61,4 @@ box-shadow: -10px 13px 20px 1px #326f5e
     color: wheat;
     box-shadow:
 
-=======
-  background-color:red ;
-  box-shadow: 10px 20px 30px ;
->>>>>>> 61697fa945a7019e9a38cc04c5dad8200f69c40a
 }
