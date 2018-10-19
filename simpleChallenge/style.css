@@ -4,6 +4,7 @@ body{
   /* Set defualt font size, to sure works in all browsers */
   font-size: 100%;
 }
+
 .main-mes{
   text-align: center;
     color: wheat;
@@ -20,7 +21,7 @@ a{
 
 /* change link color hover */
 a:hover{
-  color:darkblue ;  
+  color:darkblue ;
 }
 a:visited{
   background-color: #F44336 ;

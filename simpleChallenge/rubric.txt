@@ -1,0 +1,9 @@
+Requirements:
+- create html file - save it as (simplePage).
+- change background color to  #2981C9
+- write some word :
+    * set it in Mid-Page .
+    * change font (style , color ,size) .
+- put some url
+    *Adding effect - pseudo class like (hover, visited, active ...etc )
+       feel free to be creative.

@@ -1,0 +1,8 @@
+Requirements:
+- draw three squares .
+- set display inLine-flex .
+- set background-color for each square .
+- when cursor pass any square :
+      * change background color .
+      * use box-shadow .
+      
